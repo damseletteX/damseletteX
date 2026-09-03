@@ -17,3 +17,6 @@
 <a href="https://en.wikipedia.org/wiki/Spain" title="Spain">
   &#x1F1EA;&#x1F1F8;
 </a>
+<a href="https://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">
+  &#x1F1EC;&#x1F1E7;
+</a>
