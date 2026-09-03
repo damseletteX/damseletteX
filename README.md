@@ -21,5 +21,7 @@
 </a>
 <a href="https://en.wikipedia.org/wiki/Russia" title="Russia">:ru:</a>
 </p>
-<h3>Soft skills</h3>
-<h4>Open for business and career opportunities</h4>
+<h3 align="center">Soft skills</h3>
+
+
+<h4>Open for business and career opportunities. Email me - Al.Harbar@proton.me</h4>
